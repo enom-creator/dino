@@ -49,5 +49,6 @@ def main(ip):
 
 
 if __name__ == '__main__':
+    target = input("Enter the target IP or website: ")
     main(target)
 
